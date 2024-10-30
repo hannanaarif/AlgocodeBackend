@@ -64,10 +64,12 @@ Key features include dynamic problem administration, asynchronous submission han
    cd AlgocodeBackend
 
 2. **Install dependencies for each service**:
-    - Navigate to each service folder and run:
+    - **Navigate to each service folder and run**:
+
       ```bash
-     npm install
-     ```
+npm install
+```
+
 3.**Deploy to AWS**:
 - Configure your AWS CLI credentials and deploy using your deployment script or CI/CD pipeline.
 - Ensure that auto-scaling groups, load balancers, and monitoring configurations are set up for each service.
