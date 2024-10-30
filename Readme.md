@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/a675c6ff-156c-4ade-ba48-bf9d1976e2bb)
-![image](https://github.com/user-attachments/assets/1ac00938-0e8f-4602-865a-95925e497775)
 
-## Project: Advanced Microservices-based Code Compilation and Execution Platform like Leetcode or Codeforces
+![Architecture for leetcode project](https://github.com/user-attachments/assets/21613a0e-594d-4865-a449-5846227fe146)
+
+# Project: Advanced Microservices-based Code Compilation and Execution Platform like Leetcode or Codeforces
 
 - **Microservices Architecture & Scalability**: Architected an advanced, highly scalable microservices-based platform for code compilation and execution,
  ensuring seamless scalability and high availability with AWS deployment and auto-scaling capabilities.
