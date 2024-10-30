@@ -67,8 +67,7 @@ Key features include dynamic problem administration, asynchronous submission han
     - **Navigate to each service folder and run**:
 
       ```bash
-npm install
-```
+           npm install```
 
 3.**Deploy to AWS**:
 - Configure your AWS CLI credentials and deploy using your deployment script or CI/CD pipeline.
